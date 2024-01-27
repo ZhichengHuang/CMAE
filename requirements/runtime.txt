@@ -1,0 +1,8 @@
+attrs
+future
+numpy
+packaging
+six
+tensorboard
+timm
+tqdm
